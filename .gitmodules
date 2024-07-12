@@ -1,0 +1,8 @@
+[submodule "third_party/wasmtime-cpp"]
+	path = third_party/wasmtime-cpp
+	url = git@github.com:bytecodealliance/wasmtime-cpp.git
+  shadow = true
+[submodule "third_party/wasmtime"]
+	path = third_party/wasmtime
+	url = git@github.com:bytecodealliance/wasmtime.git
+	shadow = true
